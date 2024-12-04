@@ -51,8 +51,9 @@ No additional dependencies required. The app uses vanilla JavaScript and relies 
 
 ## Deployment
 The application can be deployed on standard web servers. Ensure:
-- All three files (`index.html`, `styles.css`, `app.js`) are in the same directory
+- All three files (`index.html`, `styles.css`, `script.js`) are in the same directory
 - Web server supports static file hosting
+- **Live Deployment:** You can now access the deployed application at https://www.realtonny.tech.
 
 ## Limitations
 - Depends on Lyrics.ovh API availability
@@ -66,7 +67,7 @@ The application can be deployed on standard web servers. Ensure:
 - Add more interactive features
 
 ## License
-[Choose an appropriate license, e.g., MIT]
+ MIT
 
 ## Credits
 - Lyrics data provided by Lyrics.ovh API
